@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpecterIR v2 — Documentation
 
 ## Overview
@@ -173,3 +174,7 @@ The tool automatically detects the OS and uses the appropriate command:
 | Scheduled Tasks | `schtasks` | `crontab` | `crontab` |
 | DNS Cache | `ipconfig /displaydns` | `systemd-resolve` | N/A |
 | Installed Software | `wmic product` | `dpkg -l` / `rpm -qa` | `brew list` |
+=======
+# SpecterIR
+🔍 SpecterIR — Python-based Incident Response tool for host forensics. Collects system, network, process &amp; log data into a SHA256-verified report.
+>>>>>>> 076aec56a5d7d2e81787fdbb990907cbd4d8b69f
