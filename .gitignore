@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# SpecterIR generated output folders and zips
+SpecterIR_*/
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp/backup files
+backup
+temp
